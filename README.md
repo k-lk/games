@@ -11,3 +11,4 @@ html 在线游戏
 
 5.git pull origin 分支名
 
+网站访问地址：https://k-lk.github.io/games/index.html
