@@ -13,3 +13,4 @@ html 在线游戏
 
 网站访问地址：https://k-lk.github.io/games/index.html
 网站访问地址：https://games-likun.vercel.app
+网站访问地址：https://tourmaline-hamster-064db5.netlify.app
